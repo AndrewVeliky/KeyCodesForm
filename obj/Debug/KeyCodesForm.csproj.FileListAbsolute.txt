@@ -1,0 +1,9 @@
+E:\Visual Project\KeyCodesForm\KeyCodesForm\bin\Debug\KeyCodesForm.exe.config
+E:\Visual Project\KeyCodesForm\KeyCodesForm\bin\Debug\KeyCodesForm.exe
+E:\Visual Project\KeyCodesForm\KeyCodesForm\bin\Debug\KeyCodesForm.pdb
+E:\Visual Project\KeyCodesForm\KeyCodesForm\obj\Debug\KeyCodesForm.csprojResolveAssemblyReference.cache
+E:\Visual Project\KeyCodesForm\KeyCodesForm\obj\Debug\KeyCodesForm.Form1.resources
+E:\Visual Project\KeyCodesForm\KeyCodesForm\obj\Debug\KeyCodesForm.Properties.Resources.resources
+E:\Visual Project\KeyCodesForm\KeyCodesForm\obj\Debug\KeyCodesForm.csproj.GenerateResource.Cache
+E:\Visual Project\KeyCodesForm\KeyCodesForm\obj\Debug\KeyCodesForm.exe
+E:\Visual Project\KeyCodesForm\KeyCodesForm\obj\Debug\KeyCodesForm.pdb
